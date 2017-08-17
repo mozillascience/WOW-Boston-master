@@ -1,9 +1,9 @@
 # Welcome to the 2017 Working Open Workshop repository!
 [![Gitter](https://badges.gitter.im/mozillascience/WOW-Boston.svg)](https://gitter.im/mozillascience/WOW-Boston?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-This is a repo to collect all materials and resources related to Mozilla Science Lab's Working Open Workshops held in 2017. You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
+This is a repo to collect all materials and resources related to the Working Open Workshop hosted at Kansas University for Open Access Week 2017. You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
 
-We'll be hosting this **WOW in Boston in August 2017**, though we have hosted WOWs in Montréal, Berlin, Cape Town, Portland, Cambridge (UK) and many more cities!
+We'll be hosting this **WOW in Lawrence, KS in October 2017**, though we have hosted WOWs in Montréal, Berlin, Cape Town, Portland, Cambridge (UK), Boston and many more cities!
 
 ![site](assets/images/site.png)
 
@@ -13,13 +13,11 @@ The Working Open Workshop (or WOW) is **a set of trainings created by Mozilla Sc
 
 #### What happens at WOW?
 
-The core WOW experience is 2 days of small, invite-only workshops and work sessions led by Mozilla staff and Fellows. **In these workshops, we’ll cover the essentials of preparing an open project, bringing on contributors, developing your mentorship skills, using collaboration tools such as Git and GitHub, and growing an active community around an open project.**
+The core WOW experience is 2 days of small, workshops and work sessions led by Mozilla staff, Fellows and/or community members. **In these workshops, we’ll cover the essentials of preparing an open project, bringing on contributors, developing your mentorship skills, using collaboration tools such as Git and GitHub, and growing an active community around an open project.**
 
 **Our approach is hands-on, and project-based.** The WOW agenda includes lots of time for participants to make real, meaningful progress on their projects, and to network and collaborate across projects and disciplines.
 
 It also usually includes a community event/mixer for project leads, potential contributors, citizen scientists, study group participants, local like-minded organizations, and really anyone who’s curious about open research.
-
-The first WOW was held in Berlin in early February 2016. The second will be held in Montréal in March 2017.
 
 #### Life After WOW: The Open Leadership Mentors
 WOW was designed as a springboard for a group we're calling the Open Leadership Mentors. Members of the Open Leadership Mentors (with the support, advice, and encouragement of Mozilla staff and previously trained mentors) work together to create projects, share resources, and build active, regional communities of open source practitioners.
