@@ -1,4 +1,4 @@
-Please follow this format for your issue. Look at the TEMPLATE issue if you have questions: https://github.com/mozillascience/WOW-BOSTON/issues/9)
+Please follow this format for your issue. Look at the TEMPLATE issue if you have questions: https://github.com/mozillascience/WOW-Kansas/issues/9)
 
 ## PROJECT
 
