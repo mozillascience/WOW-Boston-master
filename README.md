@@ -1,6 +1,6 @@
 # Welcome to the 2017 Working Open Workshop repository!
 
-This is a repo to collect all materials and resources related to the Working Open Workshop hosted at Kansas University for Open Access Week 2017. You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
+This is a repo to collect all materials and resources related to the Working Open Workshop hosted at The University of Kansas for Open Access Week 2017. You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
 
 We'll be hosting this **WOW in Lawrence, KS in October 2017**, though we have hosted WOWs in Montréal, Berlin, Cape Town, Portland, Cambridge (UK), Boston and many more cities!
 
@@ -37,8 +37,3 @@ We provide leadership training (such as this Workshop), learning materials and f
 All content of this repo is released under the CC-BY 4.0 license, with attribution required to **the Mozilla Science Lab and contributors**.
 
 Read the [full-text of the license](https://creativecommons.org/licenses/by/4.0/legalcode), or a [succinct summary](https://creativecommons.org/licenses/by/4.0/).
-
-
-
-
-
